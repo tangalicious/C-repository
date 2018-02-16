@@ -1,0 +1,7 @@
+C:\repos\TestSQLReadCustomer\SQLReadCustomer\obj\Debug\SQLReadCustomer.csprojResolveAssemblyReference.cache
+C:\repos\TestSQLReadCustomer\SQLReadCustomer\obj\Debug\SQLReadCustomer.csproj.CoreCompileInputs.cache
+C:\repos\TestSQLReadCustomer\SQLReadCustomer\bin\Debug\SQLReadCustomer.exe.config
+C:\repos\TestSQLReadCustomer\SQLReadCustomer\bin\Debug\SQLReadCustomer.exe
+C:\repos\TestSQLReadCustomer\SQLReadCustomer\bin\Debug\SQLReadCustomer.pdb
+C:\repos\TestSQLReadCustomer\SQLReadCustomer\obj\Debug\SQLReadCustomer.exe
+C:\repos\TestSQLReadCustomer\SQLReadCustomer\obj\Debug\SQLReadCustomer.pdb

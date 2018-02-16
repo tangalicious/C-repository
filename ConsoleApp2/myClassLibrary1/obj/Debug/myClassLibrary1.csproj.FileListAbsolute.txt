@@ -1,0 +1,6 @@
+C:\repos\ConsoleApp2\myClassLibrary1\bin\Debug\myClassLibrary1.dll
+C:\repos\ConsoleApp2\myClassLibrary1\bin\Debug\myClassLibrary1.pdb
+C:\repos\ConsoleApp2\myClassLibrary1\obj\Debug\myClassLibrary1.csprojResolveAssemblyReference.cache
+C:\repos\ConsoleApp2\myClassLibrary1\obj\Debug\myClassLibrary1.csproj.CoreCompileInputs.cache
+C:\repos\ConsoleApp2\myClassLibrary1\obj\Debug\myClassLibrary1.dll
+C:\repos\ConsoleApp2\myClassLibrary1\obj\Debug\myClassLibrary1.pdb
