@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPN Calculator", "RPN Calculator\RPN Calculator.csproj", "{B4573770-BF89-4F7B-9030-4DD43FE490BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Startup", "Startup\Startup.csproj", "{0649283B-4FD6-4E0B-AC69-8684D42AF252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4573770-BF89-4F7B-9030-4DD43FE490BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4573770-BF89-4F7B-9030-4DD43FE490BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4573770-BF89-4F7B-9030-4DD43FE490BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4573770-BF89-4F7B-9030-4DD43FE490BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0649283B-4FD6-4E0B-AC69-8684D42AF252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0649283B-4FD6-4E0B-AC69-8684D42AF252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0649283B-4FD6-4E0B-AC69-8684D42AF252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0649283B-4FD6-4E0B-AC69-8684D42AF252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC449BF8-624E-4415-A00C-FE50D027A2ED}
+	EndGlobalSection
+EndGlobal
