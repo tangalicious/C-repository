@@ -5,14 +5,14 @@ namespace Student.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<Student.IntroDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<ClassAssign.ClassAssignment>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(Student.IntroDbContext context)
+        protected override void Seed(ClassAssign.ClassAssignment context)
         {
             //  This method will be called after migrating to the latest version.
 

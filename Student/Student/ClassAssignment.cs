@@ -7,12 +7,12 @@ using System.Text;
 using System.Threading.Tasks;
 using Student;
 
-namespace Student
+namespace ClassAssign
 {
-    public class IntroDbContext : DbContext
+    public class ClassAssignment : DbContext
     {
 
-        public IntroDbContext() : base()
+        public ClassAssignment() : base()
         {
 
         }
